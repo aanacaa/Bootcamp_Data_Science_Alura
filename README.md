@@ -29,8 +29,8 @@ From now on, everything you have learned over these months will be put into prac
 In the last module we applied all our knowledge to analyze data from COVID-19, understand some of the challenges of hospitals in times of pandemic and propose solutions based on data analysis.
 Our solution proposal was to use Machine Learning models, but to make this possible we need to deepen our knowledge in this area, testing more advanced models, using metrics appropriate to the problem and validating correctly. In this module we will work on all these fronts to make our solution a viable proposal.
 
-##Final project: [COVID-19 - Clinical Data to assess diagnosis] (https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)
+## Final project: [COVID-19 - Clinical Data to assess diagnosis] (https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)
 
 
 
-_The files for each module and final project are in the [notebooks](https://github.com/aanacaa/Bootcamp_Data_Science_Alura/tree/master/notebooks) folder
+_The files for each module and final project are in the [notebooks](https://github.com/aanacaa/Bootcamp_Data_Science_Alura/tree/master/notebooks) folder_
