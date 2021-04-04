@@ -1,4 +1,4 @@
-# Bootcamp of applied data science of [Alura](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas)
+# Bootcamp of applied data science - [Alura](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas)
 We are going to immerse ourselves in the ocean of Data Science by developing real projects in the health area divided into 6 modules.
 We will delve into data analysis techniques, statistics, modeling and data visualization in a practical and applied way, scaling your knowledge to bring new opportunities, whether in the company where you work, whether in your own business or in a new career.
 You will learn Python, Pandas, Matplotlib, Seaborn, Scikit-Learn and several other Python libraries; understand the workflow of a Data Science project; you will know how to structure and communicate your results to justify the analysis and conclusions, showing how important the role of data is to optimize processes and results.
@@ -29,4 +29,8 @@ From now on, everything you have learned over these months will be put into prac
 In the last module we applied all our knowledge to analyze data from COVID-19, understand some of the challenges of hospitals in times of pandemic and propose solutions based on data analysis.
 Our solution proposal was to use Machine Learning models, but to make this possible we need to deepen our knowledge in this area, testing more advanced models, using metrics appropriate to the problem and validating correctly. In this module we will work on all these fronts to make our solution a viable proposal.
 
-_The files for each module are in the [notebooks](https://github.com/aanacaa/Bootcamp_Data_Science_Alura/tree/master/notebooks) folder_
+##Final project: [COVID-19 - Clinical Data to assess diagnosis] (https://www.kaggle.com/S%C3%ADrio-Libanes/covid19)
+
+
+
+_The files for each module and final project are in the [notebooks](https://github.com/aanacaa/Bootcamp_Data_Science_Alura/tree/master/notebooks) folder
