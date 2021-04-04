@@ -1,7 +1,7 @@
 # Bootcamp of applied data science - [Alura](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas)
 We are going to immerse ourselves in the ocean of Data Science by developing real projects in the health area divided into 6 modules.
 We will delve into data analysis techniques, statistics, modeling and data visualization in a practical and applied way, scaling your knowledge to bring new opportunities, whether in the company where you work, whether in your own business or in a new career.
-You will learn Python, Pandas, Matplotlib, Seaborn, Scikit-Learn and several other Python libraries; understand the workflow of a Data Science project; you will know how to structure and communicate your results to justify the analysis and conclusions, showing how important the role of data is to optimize processes and results.
+You will learn Python, Pandas, Matplotlib, Seaborn, Scikit-Learn and several other Python libraries; understand the workflow of a Data Science project; you will learn how to structure and communicate your results to justify the analysis and conclusions, showing how important the role of data is to optimize processes and results.
 
 ## Module 01: Python and pandas for real data analysis
 In this module we will learn how to use Python, Pandas and Matplotlib to explore the financial data of SUS, more precisely the expenses per Federative Unit over the years. The challenges start with the acquisition of data on a government platform and its possible problems, going through the reading of these data with Pandas until the creation of hypotheses in the area of health, which should always be careful, simulating the daily challenges of a scientist of data.
